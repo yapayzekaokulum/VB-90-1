@@ -30,7 +30,7 @@
 | **Ders 23** | Deep Learning KERAS ANN - Linear Regression Karşışatırması | [Colab](https://colab.research.google.com/drive/1rjIPkFTOF_y8kARn6gcUSdBGhN97ZlDP?usp=sharing) |
 | **Ders 24** | NLP- Doğal Dil İşlemenin Temelleri| [Colab](https://colab.research.google.com/drive/1N9FyxZDRoRx5hyUGPUpy2DDvK2dMs_Sr?usp=sharing) |
 | **Ders 25** | NLP- YouTube Metin Sınıflandırıcı ve Deploy| [Colab](https://colab.research.google.com/drive/1V-0d6kvce2cZCE8YeG8IH-tZQ3CEu54d?usp=sharing) |
-| **Ders 25** | Kelime Bukutu| [Colab](https://colab.research.google.com/drive/1hIgEoLToNQjht8XW4Bowi8LSSK8w3tYE?usp=sharing) |
+| **Ders 26** | Kelime Bulutu| [Colab](https://colab.research.google.com/drive/1hIgEoLToNQjht8XW4Bowi8LSSK8w3tYE?usp=sharing) |
 ## Ekran Görüntüleri
 
 <img width="1585" height="716" alt="image" src="https://github.com/user-attachments/assets/47c0ba39-2627-443d-acb2-7fbd11fb4234" />
