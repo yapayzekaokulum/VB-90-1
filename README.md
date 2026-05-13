@@ -32,6 +32,7 @@
 | **Ders 25** | NLP- YouTube Metin Sınıflandırıcı ve Deploy| [Colab](https://colab.research.google.com/drive/1V-0d6kvce2cZCE8YeG8IH-tZQ3CEu54d?usp=sharing) |
 | **Ders 26** | Kelime Bulutu| [Colab](https://colab.research.google.com/drive/1hIgEoLToNQjht8XW4Bowi8LSSK8w3tYE?usp=sharing) |
 | **Ders 27** | HF model kullanımı transformers| [Colab](https://colab.research.google.com/drive/1gemR8MFzCkL8kbNz7RR-0n0yIxCK-23f?usp=sharing) |
+| **Ders 28** | HF model kullanımı FB Translater| [Colab](https://colab.research.google.com/drive/1KhRKiWNl2hM-5O20qE8vj8tg6tZfflZ1?usp=sharing) |
 ## Ekran Görüntüleri
 
 <img width="1585" height="716" alt="image" src="https://github.com/user-attachments/assets/47c0ba39-2627-443d-acb2-7fbd11fb4234" />
